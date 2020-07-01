@@ -1,22 +1,23 @@
 <?php
+
+echo '<!DOCTYPE HTML>';
+echo '<html lang="en">';
+echo '  <head>';
+echo '          <title>DEMO</title>';
+echo '          <meta charset="utf-8">';
+echo '  </head>';
+echo '  <body>';
+echo '          <header>';
+echo '                  ';
+echo '          </header>';
+echo '';
+echo '';
+echo '          <footer>';
+echo '                  <h6>';
+echo '                          All rights reserved by Erick.';
+echo '                  </h6>';
+echo '          </footer>';
+echo '  </body>';
+echo '</html>';
+
 ?>
-
-<!DOCTYPE HTML>
-<html lang="en">
-	<head>
-		<title>DEMO</title>
-		<meta charset="utf-8">
-	</head>
-	<body>
-		<header>
-			
-		</header>
-
-
-		<footer>
-			<h6>
-				All rights reserved by Erick.
-			</h6>
-		</footer>
-	</body>
-</html>
