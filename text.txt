@@ -1,0 +1,6 @@
+Hello!
+
+Welcome to my React and Node project.
+
+Greetings,
+Erick
